@@ -24,3 +24,7 @@ Q.idea/sonarlint/securityhotspotstore/f/0/f07866736216be0ee2aba49e392191aeae700a
 gradlew.bat,2/a/2a45a911a8f1836b0b6c5b758962572012d8f8c3
 Å
 Q.idea/sonarlint/securityhotspotstore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b,a/b/abe25e851ee828e40a94fcb1c1be6f78ff7a04cf
+i
+9src/main/java/org/example/cloneboot/CloneApplication.java,2/3/230e567db18acc5403db9fce8a559fab0633880e
+u
+Esrc/main/java/org/example/context/ConfigurableApplicationContext.java,2/2/22ae23ceab66a43f03c6a63edb5b51d4eb646895
